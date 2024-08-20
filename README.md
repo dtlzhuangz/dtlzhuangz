@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ## My Coding Status
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dtlzhuangz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-&nbsp
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=dtlzhuangz&column=8"/></div>  
+<div align="center">
+  <img height="260px" src="https://github-contributor-stats.vercel.app/api?username=dtlzhuangz" />
+</div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dtlzhuangz&show_icons=true&theme=gotham" alt="dtlzhuangz" />
